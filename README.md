@@ -19,4 +19,7 @@ After storing the arguments in the database, the app offers the option to retrie
 Upon selecting this option, the app fetches the list of arguments from the database.
 Finally, the retrieved arguments are displayed on the console for the user to view.
 
+DataBase: To Run this code, Connect with the right server, Make a database with the name 'InterviewTask'.
+create a table with table name 'Arguments' then create 2 column with name 'Variable1' & 'Variable1'.
+
 Ahmed Raza
